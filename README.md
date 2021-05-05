@@ -21,7 +21,8 @@ from smartapi import SmartConnect #or from smartapi.smartConnect import SmartCon
 obj=SmartConnect(api_key="your api key",
                 #optional
                 #access_token = "your access token",
-                #refresh_token = "your refresh_token")
+                #refresh_token = "your refresh_token"
+                )
 
 #login api call
 
